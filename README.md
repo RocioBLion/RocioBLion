@@ -1,4 +1,4 @@
-### hey there 👋
+### hey there 
 
 i'm Rocio, a student of Psychology and Human Biology at the University of the Republic (UdelaR). i'm a neuroscience and data science enthusiast. 🧠
 
