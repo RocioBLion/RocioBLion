@@ -1,7 +1,8 @@
-### Hi there 👋
+### hey there 👋
 
 <!--
 **RocioBLion/RocioBLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm Rocio, a student of Psychology and Human Biology at the University of the Republic (UdelaR). i'm a neuroscience and data science enthusiast. 🧠
 
 Here are some ideas to get you started:
 
