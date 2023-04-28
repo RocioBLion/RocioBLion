@@ -4,8 +4,8 @@ i'm Rocio, a student of Psychology and Human Biology at the University of the Re
 
 
 you can find me 🌍:
-- [twitter] (https://twitter.com/RocioLion)
-- [linkedln] (https://www.linkedin.com/in/rociolion/)
+- Twitter https://twitter.com/RocioLion
+- [Linkedln] (https://www.linkedin.com/in/rociolion/)
 <!--
 **RocioBLion/RocioBLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 i'm Rocio, a student of Psychology and Human Biology at the University of the Republic (UdelaR). i'm a neuroscience and data science enthusiast. 🧠
