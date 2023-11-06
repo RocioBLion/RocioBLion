@@ -1,6 +1,6 @@
 ### hey there 
 
-i'm Rocio, a student of Psychology at the University of the Republic (UdelaR). 🧠
+i'm Rocio, a Psychology student at the University of the Republic (UdelaR). 🧠
 
 <!--
 **RocioBLion/RocioBLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
